@@ -3,6 +3,15 @@
 - 🌱 I’m currently learning languages.
 - 💞️ I’m looking to collaborate on New Projects.
 - 📫 How to reach me ...
+
+
+```
+Programming Language Known : C ,C++ ,Python ,Java ,JS 
+```
+
+![gitProfile]https://github.com/Arul-Murugan-R
+
+  - [ ] Note Start using Git
 <!---
 Arul-Murugan-R/Arul-Murugan-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
