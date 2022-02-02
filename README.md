@@ -10,6 +10,11 @@ Git Clone
 git clone <git@github.com:{username}/reponame>
 ```
 
+Git switch btw branches eg main->test
+```
+git branch -M <branchname(test)>
+```
+
 ```
 Programming Language Known : C ,C++ ,Python ,Java ,JS 
 ```
