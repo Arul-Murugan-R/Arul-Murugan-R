@@ -19,7 +19,7 @@ git branch -M <branchname(test)>
 Programming Language Known : C ,C++ ,Python ,Java ,JS 
 ```
 
-![gitProfile]https://github.com/Arul-Murugan-R
+- [GitProfile](https://github.com/Arul-Murugan-R)
 
   - [ ] Note Start using Git
 <!---
