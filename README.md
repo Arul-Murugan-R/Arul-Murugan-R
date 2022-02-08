@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Android Development 
 - 🌱 I’m currently learning languages.
 - 💞️ I’m looking to collaborate on New Projects.
-- 📫 How to reach me ...
+- 📫 How to reach me arulmuruganarjun14@gmail.com
 
 
 Git Clone
