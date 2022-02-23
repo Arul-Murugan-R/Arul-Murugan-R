@@ -22,8 +22,6 @@ git branch -M <branchname(test)>
 Programming Language Known : C ,C++ ,Python ,Java ,JS 
 ```
 
-[GitProfile](https://github.com/Arul-Murugan-R)
-
 <!---
 Arul-Murugan-R/Arul-Murugan-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
