@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently a Full Stack Developer.
       ```
-      HTML CSS JS NODE-JS EXPRESS EJS MONGODB RestAPI BS
+      HTML CSS JS NODE-JS EXPRESS EJS MONGODB RestAPI
       ```
 - 💞️ I’m looking to collaborate on New Projects.
 - 📫 How to reach me arulmuruganarjun14@gmail.com
